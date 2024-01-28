@@ -11,7 +11,7 @@ This is a simple Android application that allows users to capture an image using
 
 ## Requirements
 
-- Android device running Android OS version XX or above.
+- Android device .
 - Camera permissions granted for the application.
 
 ## Getting Started
